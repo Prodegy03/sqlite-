@@ -2,7 +2,7 @@
 
 This program shows how SQLite, python, GitHub, and VS Studio can all be used together to run a serverless Database. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7J9xNg3oINE)
 
 # Relational Database
 
